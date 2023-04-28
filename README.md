@@ -1,4 +1,5 @@
 # timeseries-operator
+## 开发步骤
 ```shell
 # 在 bin 文件夹中安装 kustomize
 https://github.com/kubernetes-sigs/kustomize
@@ -23,6 +24,11 @@ make install run
 
 # 测试
 kubectl apply -f config/samples/operator_v1_timeseriesdb.yaml
+```
+
+## 快速开始
+```text
+go run .
 ```
 
 ## Description
