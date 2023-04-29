@@ -1,4 +1,9 @@
 # timeseries-operator
+## Operator Hup
+```shell
+https://operatorhub.io/?category=Database
+```
+
 ## 开发步骤
 ```shell
 # 在 bin 文件夹中安装 kustomize
